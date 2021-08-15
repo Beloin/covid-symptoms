@@ -4,3 +4,4 @@
 - Os dados parecem estar aleatórios, ou inválidos para essa classificação.
 
 ### Mas, ainda se você quiser confiar em 25% de acurácia, pode baixar o repositório e rodar o segundo comando:
+```python3 main.py```
